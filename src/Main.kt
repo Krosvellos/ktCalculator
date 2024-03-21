@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    val calculator = Calculator()
+    calculator.calculate()
 }
